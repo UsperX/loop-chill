@@ -1,6 +1,8 @@
-# Looper
+# Loop & Chill 🔄🍿
 
-Chrome extension. Move your mouse cursor over any video and set loop in a portion/range.
+Fork of the project [looper](https://github.com/code-charity/looper) by [code-charity](https://github.com/code-charity).
+
+Chrome extension that makes it possible to move your mouse cursor over any video and set loop in a portion/range.
 
 
 ## :earth_americas: Translations
